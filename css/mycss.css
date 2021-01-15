@@ -1,0 +1,44 @@
+.card {
+	width: 18rem;
+	height: 200px;
+}
+
+/*untuk jarak antara gambar*/
+#porto1 {
+	margin-bottom: 100px;
+}
+
+#porto2 {
+	margin-top: 100px;
+}
+
+/*untuk section about*/
+#about {
+	height: 300px;
+}
+
+/*untuk section contact*/
+#contact {
+	margin-top: 120px;
+}
+
+/*untuk peta*/
+#peta {
+	height: 300px;
+	width: 450px;
+}
+
+/*untuk footer*/
+footer {
+	height: 50px;
+	margin-top: 50px;
+	padding-top: 10px;
+	background: rgb(2,0,36);
+	background: linear-gradient(48deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(247,71,1,1) 100%, rgba(0,212,255,1) 100%);
+	color: #ffffff;
+}
+
+.navbar {
+	background: rgb(2,0,36);
+	background: linear-gradient(48deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(247,71,1,1) 100%, rgba(0,212,255,1) 100%);
+}
